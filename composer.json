@@ -1,0 +1,19 @@
+{
+    "name": "danoon/UuidV4",
+    "type": "library",
+    "description": "UuidV4 generator",
+    "keywords": ["UuidV4"],
+    "homepage": "https://github.com/Danoon/UuidV4",
+    "authors": [
+        {
+            "name": "Dany Henriquez",
+            "email": "dany@henriquez.eu"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "files": ["src/Uuid.php"]
+    }
+}
