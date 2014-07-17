@@ -1,5 +1,5 @@
 {
-    "name": "danoon/uuidV4",
+    "name": "danoon/uuid-v4",
     "type": "library",
     "description": "UuidV4 generator",
     "keywords": ["UuidV4"],
