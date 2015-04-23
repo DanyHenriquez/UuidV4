@@ -1,9 +1,9 @@
 {
-    "name": "danoon/uuid-v4",
+    "name": "prezto/uuid-v4",
     "type": "library",
     "description": "UuidV4 generator",
     "keywords": ["UuidV4"],
-    "homepage": "https://github.com/Danoon/UuidV4",
+    "homepage": "https://github.com/Prezto/UuidV4",
     "authors": [
         {
             "name": "Dany Henriquez",
